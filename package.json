@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/yosuke-furukawa/assert-stream#readme",
   "devDependencies": {
-    "eater": "^3.0.0-5",
+    "eater": "^3.2.0",
     "must-call": "^1.0.0"
   }
 }
